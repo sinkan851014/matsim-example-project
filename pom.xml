@@ -14,18 +14,18 @@
 		<matsim.version>13.0</matsim.version>
 
 		<!-- weekly release -->
-<!--		<matsim.version>14.0-2021w43</matsim.version>-->
+		<!--		<matsim.version>14.0-2021w43</matsim.version>-->
 
 		<!-- PR release -->
 		<!--		<matsim.version>13.1-PR1536</matsim.version>-->
 
 		<!-- for dependency sharing in IDE -->
-<!--				<matsim.version>14.0-SNAPSHOT</matsim.version>-->
+		<!--				<matsim.version>14.0-SNAPSHOT</matsim.version>-->
 
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-		<maven.compiler.source>11</maven.compiler.source>
-		<maven.compiler.target>11</maven.compiler.target>
+		<maven.compiler.source>1.8</maven.compiler.source>
+		<maven.compiler.target>1.8</maven.compiler.target>
 	</properties>
 
 	<repositories>
